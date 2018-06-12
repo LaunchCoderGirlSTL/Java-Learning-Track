@@ -1,12 +1,20 @@
-LaunchCode Curriculum Docs
-==========================
+CoderGirl Java
+==============
 
-This repository is a template for LaunchCode curriculum module sites to be hosted via GitHub Pages, either under `@LaunchCodeEducation`_ or `@LaunchCoderGirl`_.
+Course Description
+------------------
 
-To set up a new curriculum module, see the `curriculum docs`_.
+Java is an object-oriented language with a multitude of applications. In this course you will start with the fundamentals of programming and progress through the Java language as you learn to solve problems with code. Java developers work with data management, reporting, and business workflows. This track is great for programming beginners and will build your skills to a professional level by gradually increasing in difficulty.
+
+Lessons
+-------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   lessons/lesson01
+
+
 
 .. _@LaunchCodeEducation: https://github.com/launchcodeeducation
 .. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
