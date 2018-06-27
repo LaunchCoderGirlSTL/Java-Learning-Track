@@ -83,8 +83,16 @@ aside::before {
     margin-top: 2em;
 }
 
-#bonus-missions::before,
-#bonus-mission::before {
+#bonus-missions > h1 a:first-child::before,
+#bonus-mission > h1 a:first-child::before,
+#bonus-missions > h2 a:first-child::before,
+#bonus-mission > h2 a:first-child::before,
+#bonus-missions > h3 a:first-child::before,
+#bonus-mission > h3 a:first-child::before,
+#bonus-missions > h4 a:first-child::before,
+#bonus-mission > h4 a:first-child::before,
+#bonus-missions > h5 a:first-child::before,
+#bonus-mission > h5 a:first-child::before {
     content: '🚀 ';
 }
 
@@ -158,3 +166,19 @@ blockquote div {
     padding: 20px;
     display: block;
 }
+
+.figure img {
+    margin-bottom: 10px;
+}
+
+.figure .caption {
+    font-style: italic;
+}
+
+div.topic {
+    border: none;
+    background-color: #efefef;
+    border-radius: 5px;
+    padding: 7px;
+}
+

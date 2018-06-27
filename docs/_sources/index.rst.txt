@@ -32,8 +32,3 @@ Lessons
    lessons/lesson18
    lessons/lesson19
    lessons/lesson20
-
-
-.. _@LaunchCodeEducation: https://github.com/launchcodeeducation
-.. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
-.. _curriculum docs: https://education.launchcode.org/curriculum-docs/
