@@ -17,12 +17,14 @@ Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
 
 In-class Work
 -------------
+
 1. Practice from Section 1: Creating and Running Programs
 2. Practice from Section 2: Story Time
 3. Practice from Section 2: A Poem
 
 Assignments
 -----------
+
 1. Practice from Section 2: :doc:`Grocery List <assignments/grocery_list>` (code submission)
     * Due January 23rd
 2. Quiz 1 (Section 2): “Will it compile?"
