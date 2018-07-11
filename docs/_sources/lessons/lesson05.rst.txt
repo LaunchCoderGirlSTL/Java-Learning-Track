@@ -7,7 +7,7 @@ Learning Objectives
 Prep Work
 ---------
 
-Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
+Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginner-pro-java/learn/v4/overview>`_
 
 #. Work through Lessons 39-40, 42-43
 #. Optional Challenge #41: Pretty Dates
@@ -20,7 +20,7 @@ In-Class Work
 Assignments
 -----------
 
-#. Practice from Section 4: Calculator Methods (code submission) - **Due February 13th**
-#. Practice from Section 4: Many Methods - **Not Graded - Be Prepared to Demo to Group**
+#. Practice from Section 4: :doc:`Calculator Methods <assignments/calculator_methods>` (code submission) - **Due February 13th**
+#. Practice from Section 4: :doc:`Many Methods <assignments/many_methods>` - **Not Graded - Be Prepared to Demo to Group**
 
-.. Calculator Methods and Many Methods have their own assignment pages
+.. Calculator Methods and Many Methods have their own assignment pages on Canvas

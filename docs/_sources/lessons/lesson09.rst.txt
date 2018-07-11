@@ -7,7 +7,7 @@ Learning Objectives
 Prep Work
 ---------
 
-Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overviewLinks to an external site.
+Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginner-pro-java/learn/v4/overview>`_
 
 #. Lessons: 66-75
 #. Practice from Section 6: Number Arrays
@@ -21,6 +21,6 @@ In-Class Work
 Assignments
 -----------
 
-#. Practice from Section 6: Hidden Message (not graded) - **Be prepared to demo to your group!**
+#. Practice from Section 6: :doc:`Hidden Message <assignments/hidden_message>` **(not graded) - Be prepared to demo to your group!**
 
 .. Hidden Message has it's own assignment page on Canvas

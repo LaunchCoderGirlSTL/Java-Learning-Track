@@ -7,7 +7,7 @@ Learning Objectives
 Prep Work
 ---------
 
-Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
+Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginner-pro-java/learn/v4/overview>`_
 
 1. Work through Lessons 1-2, 5, 7-16, 18-19
     * SKIP Lessons 3, 4, 6 on BlueJ

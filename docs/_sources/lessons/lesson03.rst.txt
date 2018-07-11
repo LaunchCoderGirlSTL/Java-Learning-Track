@@ -7,7 +7,7 @@ Learning Objectives
 Prep Work
 ---------
 
-Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
+Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginner-pro-java/learn/v4/overview>`_
 
 #. Work through Lessons 21-32, 34 (SKIP Practice #33: Freestyle: Interactive Story)
 #. Practice from Section 3: Cat and Mouse 
@@ -24,4 +24,4 @@ Assignments
 #. Practice from Section 3: :doc:`Entertainment <assignments/entertainment>` - **Not Graded - Be Prepared to Demo to Group**
 #. Self-Evaluation Checklist: "Variables, Conditions, If, Input/Output" - **Complete and Bring to Next Meet-up**
 
-.. Sandwhich Shop and Entertainment have their own assignment pages
+.. Sandwhich Shop and Entertainment have their own assignment pages on Canvas
