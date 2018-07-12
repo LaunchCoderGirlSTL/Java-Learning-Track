@@ -7,7 +7,7 @@ Learning Objectives
 Prep Work
 ---------
 
-Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
+Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginner-pro-java/learn/v4/overview>`_
 
 1. Work through Lessons 1-2, 5, 7-16, 18-19
     * SKIP Lessons 3, 4, 6 on BlueJ
@@ -17,13 +17,15 @@ Link to Udemy Course: https://www.udemy.com/beginner-pro-java/learn/v4/overview
 
 In-class Work
 -------------
-1. Practice from Section1: Creating and Running Programs
-2. Practice from Section2: Story Time
+
+1. Practice from Section 1: Creating and Running Programs
+2. Practice from Section 2: Story Time
 3. Practice from Section 2: A Poem
 
 Assignments
 -----------
-1. Practice from Section 2: Grocery List (code submission)
+
+1. Practice from Section 2: :doc:`Grocery List <assignments/grocery_list>` (code submission)
     * Due January 23rd
 2. Quiz 1 (Section 2): “Will it compile?"
     * Review the quiz on your own and be ready to provide answers during the next meet-up.
