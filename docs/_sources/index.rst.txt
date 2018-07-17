@@ -23,6 +23,15 @@ Lessons
    lessons/lesson09
    lessons/lesson10
    lessons/lesson11
+   lessons/lesson12
+   lessons/lesson13
+   lessons/lesson14
+   lessons/lesson15
+   lessons/lesson16
+   lessons/lesson17
+   lessons/lesson18
+   lessons/lesson19
+   lessons/lesson20
 
 Assignments
 -----------
@@ -31,7 +40,7 @@ Assignments
     :maxdepth: 1
 
     lessons/assignments/grocery_list
-    lessons/assignments/sandwhich_shop
+    lessons/assignments/sandwich_shop
     lessons/assignments/entertainment
     lessons/assignments/verse_and_chorus
     lessons/assignments/calculator_methods

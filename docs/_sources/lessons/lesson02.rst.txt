@@ -26,6 +26,6 @@ Assignments
 -----------
 
 1. Practice from Section 2: :doc:`Grocery List <assignments/grocery_list>` (code submission)
-    * Due January 23rd
+    * Grocery List will be due next week.
 2. Quiz 1 (Section 2): “Will it compile?"
-    * Review the quiz on your own and be ready to provide answers during the next meet-up.
+    * Review the quiz on your own and be ready to provide answers during the next class.
