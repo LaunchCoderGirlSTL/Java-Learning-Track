@@ -11,13 +11,9 @@ When you're done, upload your code to GitHub, include that link to submit the as
 
 Link to assignment: https://www.udemy.com/beginner-pro-java/learn/v4/t/lecture/2063872?start=0
 
-We will be grading using the following rubric:
+We will award 1 point for each of the following:
 
-=============================== =======
-Criteria                        Points
-=============================== =======
-Program compiles                1 point
-Appropriate variable usage      1 point
-User display formatting         1 point
-Program returns expected result 1 point
-=============================== =======
+1. Program compiles
+2. Appropriate variable usage
+3. User display formatting
+4. Program returns expected result
