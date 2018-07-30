@@ -3,6 +3,7 @@ Lesson 1: Welcome and Introduction to Java
 
 Learning Objectives
 -------------------
+* What is Java?
 
 Prep Work
 ---------
@@ -33,7 +34,4 @@ Prep Work
 
 In-class Work
 -------------
-During our first class we will take some time to get to know each other and introduce the Mentors.
-
-Assignments
------------
+During our first class we will take some time to get to know each other and introduce the Mentors. We will also be spending some time to make sure that everyone is properly registered. So if something is not working, that is okay!

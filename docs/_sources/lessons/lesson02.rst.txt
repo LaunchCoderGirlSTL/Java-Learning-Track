@@ -3,6 +3,9 @@ Lesson 2: Running Programs, Printing to the Screen, & Variables
 
 Learning Objectives
 -------------------
+* Creating and running a program with IntelliJ
+* Printing to the screen
+* Different variable types
 
 Prep Work
 ---------

@@ -3,6 +3,7 @@ Lesson 4: Introducing Methods
 
 Learning Objectives
 -------------------
+* Working with functions and methods
 
 Prep Work
 ---------

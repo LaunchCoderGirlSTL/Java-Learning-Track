@@ -3,6 +3,7 @@ Lesson 3: Interactive Programs
 
 Learning Objectives
 -------------------
+* Working with input and output
 
 Prep Work
 ---------
@@ -16,6 +17,7 @@ Complete the following tasks on the `Udemy Course <https://www.udemy.com/beginne
 
 In-Class Work
 -------------
+Review Grocery List
 
 Assignments
 -----------

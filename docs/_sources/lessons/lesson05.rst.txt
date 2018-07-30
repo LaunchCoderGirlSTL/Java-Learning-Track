@@ -3,6 +3,7 @@ Lesson 5: Methods... Again!
 
 Learning Objectives
 -------------------
+* Continuing our work with methods.
 
 Prep Work
 ---------
@@ -20,7 +21,7 @@ In-Class Work
 Assignments
 -----------
 
-#. Practice from Section 4: :doc:`Calculator Methods <assignments/calculator_methods>` (code submission) - **Due February 13th**
+#. Practice from Section 4: :doc:`Calculator Methods <assignments/calculator_methods>` (code submission) - **Due next week**
 #. Practice from Section 4: :doc:`Many Methods <assignments/many_methods>` - **Not Graded - Be Prepared to Demo to Group**
 
 .. Calculator Methods and Many Methods have their own assignment pages on Canvas
