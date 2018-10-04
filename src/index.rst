@@ -32,6 +32,8 @@ Lessons
    lessons/lesson18
    lessons/lesson19
    lessons/lesson20
+   lessons/lesson21
+   lessons/lesson22
 
 Assignments
 -----------
