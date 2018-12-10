@@ -6,6 +6,14 @@ Course Description
 
 Java is an object-oriented language with a multitude of applications. In this course you will start with the fundamentals of programming and progress through the Java language as you learn to solve problems with code. Java developers work with data management, reporting, and business workflows. This track is great for programming beginners and will build your skills to a professional level by gradually increasing in difficulty.
 
+About Us
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   about
+
 Lessons
 -------
 
