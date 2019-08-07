@@ -7,12 +7,13 @@
     <title>Lesson 2: Running Programs, Printing to the Screen, &amp; Variables &#8212; CoderGirl Learning Track  documentation</title>
     <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/css/launchcode.css" type="text/css" />
-    <link rel="stylesheet" href="https://djwbyvgln9kts.cloudfront.net/launch_ed_style/custom.css" type="text/css" />
-    <script type="text/javascript" src="../_static/documentation_options.js"></script>
+    <link rel="stylesheet" type="text/css" href="../_static/fa/css/all.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/launchcode.css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
     <script type="text/javascript" src="../_static/jquery.js"></script>
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/language_data.js"></script>
     <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
     <script type="text/javascript" src="../_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
@@ -38,7 +39,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="../index.html"><span><img src="../_static/lc-logo.svg" alt="LaunchCode logo"></span>
+        <a class="navbar-brand" href="../index.html"><span><img src="../_static/lc-ed-logo.png" alt="LaunchCode logo"></span>
           CoderGirl Java</a>
         <span class="navbar-text navbar-version pull-left"><b></b></span>
       </div>
@@ -55,145 +56,31 @@
      href="../index.html">Lessons <b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"
       role="menu"
-      aria-labelledby="dLabelGlobalToc"><ul>
-<li class="toctree-l1"><a class="reference internal" href="../about.html">About This Curriculum</a></li>
-</ul>
-<ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="lesson01.html">Lesson 1: Welcome and Introduction to Java</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson01.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson01.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson01.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Lesson 2: Running Programs, Printing to the Screen, &amp; Variables</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#in-class-work">In-class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson03.html">Lesson 3: Interactive Programs</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson03.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson03.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson03.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson03.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson04.html">Lesson 4: Introducing Methods</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson04.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson04.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson04.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson04.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson05.html">Lesson 5: Methods… Again!</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson05.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson05.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson05.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson05.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson06.html">Lesson 6: While Loops</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson06.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson06.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson06.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson06.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson07.html">Lesson 7: DO {Loops} WHILE {Learning}</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson07.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson07.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson07.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson07.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson08.html">Lesson 8: For Loops and Nested For Loops</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson08.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson08.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson08.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson08.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson09.html">Lesson 9: Introduction to Arrays</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson09.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson09.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson09.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson09.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson10.html">Lesson 10: Multi-Dimensional Arrays</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson10.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson10.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson10.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson10.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson11.html">Lesson 11: Wo-oah We’re Halfway There…</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson11.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson11.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson11.html#in-class-work">In-Class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson11.html#assignments">Assignments</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson12.html">Lesson 12: Object-Oriented Programming - Part 1</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson12.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson12.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson12.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson13.html">Lesson 13: Object-Oriented Programming - Part 2</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson13.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson13.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson13.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson14.html">Lesson 14: Object-Oriented Programming Part 3</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson14.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson14.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson14.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson15.html">Lesson 15: Catch-Up</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson15.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson15.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson15.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson16.html">Lesson 16: Scope and Beans</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson16.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson16.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson16.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson17.html">Lesson 17: Examining Unfamiliar Code and Gitting Better</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson17.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson17.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson17.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson18.html">Lesson 18: Inheritance and Scope Modifiers</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson18.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson18.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson18.html#in-class-work">In-class Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson18.html#assignment">Assignment</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson19.html">Lesson 19: Exceptions and File I/O</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson19.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson19.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson19.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lesson20.html">Lesson 20: Interfaces</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lesson20.html#learning-objectives">Learning Objectives</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson20.html#prep-work">Prep Work</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lesson20.html#in-class-work">In-class Work</a></li>
-</ul>
-</li>
+      aria-labelledby="dLabelGlobalToc"><ol class="current">
+<li class="toctree-l1"><a class="reference internal" href="lesson01.html">Lesson 1: Welcome and Introduction to Java</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Lesson 2: Running Programs, Printing to the Screen, &amp; Variables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson03.html">Lesson 3: Interactive Programs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson04.html">Lesson 4: Introducing Methods</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson05.html">Lesson 5: Methods… Again!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson06.html">Lesson 6: While Loops</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson07.html">Lesson 7: DO {Loops} WHILE {Learning}</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson08.html">Lesson 8: For Loops and Nested For Loops</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson09.html">Lesson 9: Introduction to Arrays</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson10.html">Lesson 10: Multi-Dimensional Arrays</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson11.html">Lesson 11: Wo-oah We’re Halfway There…</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson12.html">Lesson 12: Object-Oriented Programming - Part 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson13.html">Lesson 13: Object-Oriented Programming - Part 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson14.html">Lesson 14: Object-Oriented Programming Part 3</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson15.html">Lesson 15: Catch-Up</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson16.html">Lesson 16: Scope and Beans</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson17.html">Lesson 17: Examining Unfamiliar Code and Gitting Better</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson18.html">Lesson 18: Inheritance and Scope Modifiers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson19.html">Lesson 19: Exceptions and File I/O</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lesson20.html">Lesson 20: Interfaces</a></li>
 <li class="toctree-l1"><a class="reference internal" href="lesson21.html">Lesson 21: Generics/ Collections</a></li>
 <li class="toctree-l1"><a class="reference internal" href="lesson22.html">Lesson 22: Java and all of its Friends</a></li>
-</ul>
-<ul>
+</ol>
+<ol>
 <li class="toctree-l1"><a class="reference internal" href="assignments/grocery_list.html">Grocery List</a></li>
 <li class="toctree-l1"><a class="reference internal" href="assignments/sandwich_shop.html">Sandwich Shop</a></li>
 <li class="toctree-l1"><a class="reference internal" href="assignments/entertainment.html">Entertainment</a></li>
@@ -205,7 +92,10 @@
 <li class="toctree-l1"><a class="reference internal" href="assignments/multiplication_tables.html">Print the Multiplication Tables</a></li>
 <li class="toctree-l1"><a class="reference internal" href="assignments/hidden_message.html">Hidden Message</a></li>
 <li class="toctree-l1"><a class="reference internal" href="assignments/temperatures.html">Temperatures</a></li>
-</ul>
+</ol>
+<ol>
+<li class="toctree-l1"><a class="reference internal" href="../about.html">About This Curriculum</a></li>
+</ol>
 </ul>
 </li>
               
@@ -220,7 +110,8 @@
             
 <form class="navbar-form navbar-right" action="../search.html" method="get">
  <div class="form-group">
-  <input type="text" name="q" class="form-control" placeholder="Search" />
+    <label for="q" class="searchLabel">Search</label>
+    <input type="text" name="q" class="form-control" />
  </div>
   <input type="hidden" name="check_keywords" value="yes" />
   <input type="hidden" name="area" value="default" />
@@ -259,7 +150,7 @@
 </div>
 <div class="section" id="prep-work">
 <h2>Prep Work<a class="headerlink" href="#prep-work" title="Permalink to this headline">¶</a></h2>
-<p>Complete the following tasks on the <a class="reference external" href="https://www.udemy.com/beginner-pro-java/learn/v4/overview">Udemy Course</a></p>
+<p>Complete the following tasks on the <a class="reference external" href="https://www.udemy.com/beginner-pro-java/learn/v4/overview" target="_blank">Udemy Course<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></p>
 <ol class="arabic simple">
 <li><dl class="first docutils">
 <dt>Work through Lessons 1-2, 5, 7-16, 18-19</dt>
